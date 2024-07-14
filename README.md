@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IBM-Data-Analyst-Capstone-Project
 
 In this project we will assume that we have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants.  In order to keep pace with changing technologies and remain competitive, our organization regularly analyzes data to help identify future skill requirements. 
@@ -11,3 +12,6 @@ Once we have collected enough data, we will begin analyzing the data and identif
 
 Each step of the data analysis process is shown in different notebook of this repository and some aditional files needed for their understanding.
 
+=======
+# IBM_Data_Analyst
+>>>>>>> 3d4ae60962abd1bf17fe5dff0839b291f2a09183
